@@ -2,7 +2,7 @@ Compose Country Picker Library
 
 If you are looking for an android jetpack compose  library for Country picker or Country Phone Code selector, this is the perfect place for you.
 
-Conpose Country Picker  is an android jetpack compose library which provides an easy way to search and select country or country phone code
+Compose Country Picker  is an android jetpack compose library which provides an easy way to search and select country or country phone code
 
 How to
 To get a Git project into your build:
