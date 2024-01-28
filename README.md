@@ -4,6 +4,13 @@ If you are looking for an android jetpack compose  library for Country picker or
 
 Compose Country Picker  is an android jetpack compose library which provides an easy way to search and select country or country phone code
 
+Language:
+English,
+Arabic,
+Italian,
+Russian,
+Turkish
+
 How to
 To get a Git project into your build:
 
