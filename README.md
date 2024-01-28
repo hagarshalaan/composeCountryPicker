@@ -1,4 +1,4 @@
-Conpose Country Picker jetpack compose Library
+Compose Country Picker Library
 
 If you are looking for an android jetpack compose  library for Country picker or Country Phone Code selector, this is the perfect place for you.
 
@@ -34,3 +34,6 @@ codeCountryView(
     modifier: Modifier = Modifier,
     visibleFullCountry: Boolean = false
 )
+
+
+[![](https://jitpack.io/v/hagarshalaan/composeCountryPicker.svg)](https://jitpack.io/#hagarshalaan/composeCountryPicker)
