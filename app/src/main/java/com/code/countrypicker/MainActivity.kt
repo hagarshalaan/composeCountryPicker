@@ -10,6 +10,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
+import com.code.composecountrypicker.utils.codeCountryView
 import com.code.countrypicker.ui.theme.CountryPickerTheme
 
 class MainActivity : ComponentActivity() {
@@ -23,6 +24,8 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Greeting("Android")
+                    codeCountryView()
+
                 }
             }
         }
@@ -42,5 +45,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 fun GreetingPreview() {
     CountryPickerTheme {
         Greeting("Android")
+        codeCountryView()
     }
 }
