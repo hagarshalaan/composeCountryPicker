@@ -34,6 +34,7 @@ Step 2. Add the dependency
 	}
 
 after just you can just call this code for the country code view 
+
 codeCountryView()
 
 ![Screenshot_20240129_020209](https://github.com/hagarshalaan/composeCountryPicker/assets/17965403/0dc21c8a-c7de-47ff-8e71-956ba596fc05)
