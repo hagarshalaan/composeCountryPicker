@@ -63,15 +63,15 @@ dependencies {
 
 }
 //afterEvaluate {
-//    publishing {
-//        publications {
-//            release(MavenPublication) {
+    publishing {
+        publications {
+            release(MavenPublication) {
 //                from components.release
-//
-//                groupId = 'com.github.hagarshalaan'
-//                artifactId = 'composeCountryPicker'
-//                version = '1.0.5'
-//            }
-//        }
-//    }
+
+                groupId = 'com.github.hagarshalaan'
+                artifactId = 'composeCountryPicker'
+                version = '1.0.7'
+            }
+        }
+    }
 //}
