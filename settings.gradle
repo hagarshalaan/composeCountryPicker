@@ -6,6 +6,8 @@ pluginManagement {
         maven {
             url "https://androidx.dev/storage/compose-compiler/repository/"
         }
+        maven { url "https://jitpack.io"  }
+
     }
 }
 dependencyResolutionManagement {
@@ -17,6 +19,8 @@ dependencyResolutionManagement {
         maven {
             url "https://androidx.dev/storage/compose-compiler/repository/"
         }
+        maven { url "https://jitpack.io"  }
+
     }
 }
 rootProject.name = "countryPicker"
